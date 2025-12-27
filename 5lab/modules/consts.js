@@ -1,3 +1,3 @@
-export const groupId = 'ID группы'
-export const accessToken = 'Токен'
+export const groupId = '234398304'
+export const accessToken = 'vk1.a.3WjHpGe6ngOS5rvaqYSCDlGoUiHXWV0LDyB_kPtvrtmqdW5tmAYOoqBzeK5D_86xstVcNbDdiNQxeHvCxbUDDTh1RF-qGvCguytv9ttj7lDsda59rkTxPlKfEuoqiY20wfUB6im9dUBMMDGgKD1kJzS-eCVHcdJb6xUTa7qQMa3I57bW-MtS9mZl_fys2UqpfjySGsNhxZV95GKYe0b2Jg'
 export const version = '5.199'
